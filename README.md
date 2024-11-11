@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento de softwar
 - 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, JavaScript, React Native, Node.js, Python, Git e Git GitHub]**.
 - 💼 Trabalho como **[Técinico em Segurança Eletronica]** em **[Grupo Golphe]**.
 - 💡 Tenho interesse em **[áreas de interesse, Front-end , Web Desener, Desenvolvedor de aplicativos e softwares]**.
-- 📫 Como me encontrar: [kaiopezzutti91@gmail.com]
+- 📫 Como me encontrar: [samellynes@acad.ifma.edu.br]
 
 ## 🛠️ Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
